@@ -1,0 +1,8 @@
+name: BBreak
+version: ${project.version}
+main: dev.thinkverse.bbreak.BBreak
+api-version: 1.16
+prefix: BBreak
+authors: [ thinkverse ]
+description: Testing block break event
+website: https://thinkverse.dev
